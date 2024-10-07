@@ -1,8 +1,7 @@
 Description
 
-This repository contains a collection of reusable AWS CloudFormation templates and Terraform
-configurations designed to automate the creation and management of AWS infrastructure. The
-templates help streamline the provisioning of services such as VPCs, EC2 instances, S3 bucket,
+This repository contains a collection of reusable AWS CloudFormation templates designed to automate the creation and management of AWS infrastructure. The
+templates help streamline the provisioning of services such as Lambda functions, EC2 instances, S3 bucket,
 and IAM roles, making it easier to build and maintain AWS environments.
 
 Table of Contents
