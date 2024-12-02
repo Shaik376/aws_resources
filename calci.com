@@ -9,3 +9,4 @@ Y=4-2
 
 #Division
 
+#Multiplication
